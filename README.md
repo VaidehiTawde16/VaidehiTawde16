@@ -29,3 +29,18 @@ My projects explore **SQL, Python, data analytics, ETL workflows, data modeling,
 - **Data Engineering & Integration:** ETL/ELT, REST APIs, Data Extraction, Data Transformation, JSON/XML Processing, Data Quality Checks
 - **Databases & Data Modelling:** MySQL, SQL Server, DuckDB, Relational Databases, Dimensional Modelling, Star Schema
 - **Tools:** Git, dbt, Alteryx Designer, Talend Studio, Azure Data Studio, ER/Studio
+
+---
+
+## Current Focus
+
+- Strengthening SQL and Python fundamentals.
+- Building end-to-end data engineering projects.
+- Improving data modeling, pipeline reliability, and data quality.
+- Preparing for Data Analyst and Data Engineer opportunities in Germany.
+
+---
+
+## Let's Connect
+
+I'm interested in connecting with data professionals, learning from real-world projects, and exploring opportunities in data analytics and data engineering.
